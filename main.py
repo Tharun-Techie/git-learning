@@ -4,6 +4,7 @@ b = 20
 a,b = b,a
 
 print(a)
+
 print(b)
 
 
@@ -12,8 +13,15 @@ print(b)
 def swap(a,b):
     return b,a
 
-# orrrr
+# also we can do this
 
+
+# orrrr
+temp = 0
 temp = a
 a = b
 b = temp
+
+# woorking on feature updates dont disturb me....
+
+
