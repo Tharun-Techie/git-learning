@@ -14,7 +14,7 @@ def swap(a,b):
     return b,a
 
 # orrrr
-
+temp = 0
 temp = a
 a = b
 b = temp
