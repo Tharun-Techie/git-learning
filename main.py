@@ -11,3 +11,9 @@ print(b)
 
 def swap(a,b):
     return b,a
+
+# orrrr
+
+temp = a
+a = b
+b = temp
