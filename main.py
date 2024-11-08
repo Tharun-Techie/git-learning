@@ -4,6 +4,7 @@ b = 20
 a,b = b,a
 
 print(a)
+
 print(b)
 
 
@@ -17,6 +18,3 @@ def swap(a,b):
 temp = a
 a = b
 b = temp
-
-print("revert option checking")
-print("Yearege helana nam problemu...")
