@@ -13,6 +13,9 @@ print(b)
 def swap(a,b):
     return b,a
 
+# also we can do this
+
+
 # orrrr
 temp = 0
 temp = a
