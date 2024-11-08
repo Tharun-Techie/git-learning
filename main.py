@@ -5,3 +5,9 @@ a,b = b,a
 
 print(a)
 print(b)
+
+
+# also we can do this
+
+def swap(a,b):
+    return b,a
